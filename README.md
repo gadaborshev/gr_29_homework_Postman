@@ -1,5 +1,5 @@
 # gr_29_homework_Postman
-
+# Json-file exported from Postman there https://github.com/gadaborshev/gr_29_homework_Postman/blob/main/gr_29%20homework.postman_collection.json
 #Задание EP_1
 
 Protocol: http
